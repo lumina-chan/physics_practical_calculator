@@ -1,11 +1,19 @@
-# physics_practical_calculator
-Physics Practical Calculator (for high school students)
-A Python terminal program for performing calculations used in physics practical experiments.  
+# Physics Practical Calculator (for high schoo students)
 
-Currently implemented: 
-- Vernier Calipers — external diameter
+A Python terminal program designed to perform calculations used in physics practicals.
 
-Coming next: 
-- zero-error correction
-- internal diameter
-- additional practicals
+## Current implementation
+
+### Vernier Callipers
+- External diameter calculation
+- Multiple observations
+- Observation table
+- Mean diameter
+- Input validation
+- Formula/information display
+
+## Planned
+- Zero-error correction
+- Internal diameter
+- More physics practicals
+- Menu-driven interface
