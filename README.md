@@ -20,3 +20,15 @@ A Python terminal program designed to perform calculations used in physics pract
 - Internal diameter
 - More physics practicals
 - Menu-driven interface
+
+## Future Plan (bigger picture)
+
+Vernier external diameter
+          ↓
+Vernier module
+          ↓
+Physics practical calculator
+          ↓
+Student experiment toolkit
+          ↓
+web interface
