@@ -11,12 +11,12 @@ A Python terminal program designed to perform calculations used in physics pract
 - Mean diameter
 - Input validation
 - Formula/information display
+- Zero-error correction
 
 ## Demo
 <img src="screenshots/vernier_ext_diameter.png" width="800">
 
 ## Planned
-- Zero-error correction
 - Internal diameter
 - More physics practicals
 - Menu-driven interface
