@@ -23,12 +23,8 @@ A Python terminal program designed to perform calculations used in physics pract
 
 ## Future Plan (bigger picture)
 
-Vernier external diameter
-          ↓
-Vernier module
-          ↓
-Physics practical calculator
-          ↓
-Student experiment toolkit
-          ↓
-web interface
+> Vernier external diameter
+> Vernier module
+> Physics practical calculator
+> Student experiment toolkit
+> web interface
