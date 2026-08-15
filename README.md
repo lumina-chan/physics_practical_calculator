@@ -1,4 +1,4 @@
-# Physics Practical Calculator (for high schoo students)
+# Physics Practical Calculator (for high school students)
 
 A Python terminal program designed to perform calculations used in physics practicals.
 
