@@ -29,7 +29,7 @@ The Vernier Callipers module currently supports:
 
 ### Internal Diameter + Height → Cylindrical Volume
 
-<img src="screenshots/vernier_cylindrical_volume_inD.png" width="800">
+<img src="screenshots/vernier_cylindrical_volume_intD.png" width="800">
 <img src="screenshots/vernier_cylindrical_volume_depth.png" width="800">
 
 
